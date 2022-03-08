@@ -4,9 +4,9 @@ A descriptive guide on how to ask properly a tech to help you. Don't be a moron.
 While asking for help, you need to provide error code/text, and script or pre-acts that could issue to the problem.
 
 For the case of an error on a tool:
-0. Make a proper, descriptive title of tyour problem, but make it simple.
-1. Provide the error code
-2. Give your terminal, not maybe entire, but the commands and responds related to your problem.
+1. Make a proper, descriptive title of tyour problem, but make it simple.
+2. Provide the error code
+3. Give your terminal, not maybe entire, but the commands and responds related to your problem.
 
 For example, look at this person asking help for his hashcat not running.
 https://hashcat.net/forum/archive/index.php?thread-9729.html
