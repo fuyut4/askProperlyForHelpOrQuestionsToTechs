@@ -1,4 +1,4 @@
-# askProperlyForHelporQuestionsToTechs
+# askProperlyForHelpOrQuestionsToTechs
 A descriptive guide on how to ask properly a tech to help you. Don't be a moron.
 
 While asking for help, you need to provide error code/text, and script or pre-acts that could issue to the problem.
